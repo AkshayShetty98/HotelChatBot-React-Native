@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    type: "service_account",
+    project_id: "hotelbooking-ogrdin",
+    private_key_id: "3424fb8e8b0a19a9704fc2297f05b1e87735c5f6",
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbrUZlMrvoTLYq\n9kTf6L5ebZILP5A5TGchd53E9zbv/Wi7EQIlPtyDSPD1Qgbv8chpNEdhAzpXWBOB\nzX8/gOVg7Cup/Eu4AMzyLUV2sC6yslA5OuiuAa5g1aOaWOQCdNJznZES/OaB20Ie\n1XzKoiI2T9xW+xneBs3q98ZYlU3llZwK97BvphEvmEHbRQIjUfWynhOj+V96uNVX\nkFBmFHqzb5469FK2dQxxD4LYvR07sc6/HQioJU94im9qzwV5Ae2HkpLqaaf/Ty9Y\nnVITpMeKQXpv/FsVDehIv7dJD/gPMu54Q4yhLlH2iYhzI9/I0dCOxvIg9xrmh/4q\nqLbQolYvAgMBAAECggEANpimP4dzbxy4JokHzp8JZIR424kHQ5EP+iTBJ/qrQa9V\ns4Vbg0RwgXprRxhI5o2dA4haICPJqigxbyxqnBLQXxV0msDorTdaqPRHkEBpoDH5\nAJkwURY12bATGGZkUJg31mREJKydCp2iqr2kbkw+Q13uoHKft8YbIXSUEy0JjKJH\nb2+FcAg0hO9DHCMrzvcZ7mED8BNlLnQyFKZ1lrF5XAhC0LTKwvGtfvwCVFDQ3gw6\nVO901e/3LgFvsfGiotw3foLQKM6moYxRYWNzNxQuauxlcp7G0ZqMu5D3mXqNeaA8\n8yi7JSNJPJkAkkpI/6i3B2nfaEVNJ1j4mnp5A+oGwQKBgQDMQ/g4TL57NKCfJ3Lf\nuY9k9gKb6cIeaFeDk3ZyE0aApL7aCARfBt5YT7rUMO/qPRtRNRIn6dGe0mhQf/Hv\nAVsUSeXz4YqNpPWTLhhkp4xBiZuOtLwpaYx1jw+oM944bla/7vm9LVyqIwI+S2x4\ne8oEpGpz49fV7UH2+JIUS3F7mwKBgQDDGvJn1cP7agorQ2OOHiqKndVFdbN/bM6O\nhspch0xT50mvKMieJcg9ym+qpGFpt8gHX1dPh9R6w0OPmSObuBZ4tZWllo/7yZwj\noccU3ihSsBDBD5YqLkwXrjf/o+rVDmVriSLNEf+m77/+BbxEhzJ+H/4kwMR/6OYm\ns1ifgjdq/QKBgDF139vaEWGJ67698Z3ks6kRvK3+G0f7of01LsAOlMq/mYr31/8e\njaY6oBWTR/SjGUM/o4bQojZf4mxjnrRt0p0GC81S9pa3s9MQnU16GIciB+21K76n\nVSB+JJ9o980YQp81AXniSwbTdU6aOsityMv49+HZ8MBXM9rWc6DAZ9kzAoGAYjTC\nJ3n2OCrcC4LULckJaNShcWEZhN5j6mH2ojSIOwOEl2JT+SbTcCbhpmcvkWMskGlx\nLVsVnOWEsFdJESzMQt5EASGUQAzvRxA7gUmByn1NMaCC2aCMNK9BCLCdl7izXDmf\nBtI0ePbdESQZ6/SReeLord9KCYhVsM09oqyM8JECgYAWoI/EnSxCYqhvmBQzfUSd\nIZjCH49FB6HDE9aWoygd0/MaDjnCGjgzONg900t7zJtljBf4G2orqRk2DaK5Fut7\nuZh+RYWjSw7M6vPv5drlxrFs8LZ4awF4JvXD1BG87FbTgF+TwmPIbVjGBx1Xx89C\nKLfU3wnoHhdJV0es+AW+kw==\n-----END PRIVATE KEY-----\n",
+    client_email: "dialogflow-jnkfle@hotelbooking-ogrdin.iam.gserviceaccount.com",
+    client_id: "109549682852924344167",
+    auth_uri: "https://accounts.google.com/o/oauth2/auth",
+    token_uri: "https://oauth2.googleapis.com/token",
+    auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs",
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-jnkfle%40hotelbooking-ogrdin.iam.gserviceaccount.com"
+};
